@@ -1,5 +1,9 @@
 # Tkinter_Screen_Recorder
-Tkinter based Screen recorder with audio using ffmpeg library in python
+Tkinter based Screen recorder with audio using ffmpeg library in python<br /><br />
+Functionality –<br />
+•	Easy one click Screen Capture and Screen Recording with audio<br />
+•	Saving multiple screenshots together in one doc file<br />
+•	Adjustable audio source for screen recording<br /><br />
 Main window –<br />
 ![image](https://user-images.githubusercontent.com/70128948/99882396-28df7c80-2c46-11eb-92fe-9da542bc0b5c.png)<br />
 Saving screenshots window –<br />
