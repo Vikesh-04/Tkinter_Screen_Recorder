@@ -9,5 +9,13 @@ Main window –<br />
 Saving screenshots window –<br />
 ![image](https://user-images.githubusercontent.com/70128948/99882419-66dca080-2c46-11eb-9834-c0b403260988.png)<br />
 Saving screen recording window –<br />
-![image](https://user-images.githubusercontent.com/70128948/99882436-765be980-2c46-11eb-833b-9342b86f12f9.png)
+![image](https://user-images.githubusercontent.com/70128948/99882436-765be980-2c46-11eb-833b-9342b86f12f9.png)<br />
+
+Prerequisite -<br />
+• FFmpeg software (Follow this https://windowsloop.com/install-ffmpeg-windows-10/ tutorial to install and setup the FFmpeg in windows)<br />
+• tkinter library <br />
+• docx library <br />
+• PyQt5 library <br />
+• pyautogui library <br />
+
 
